@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Tarun Dhiman/OneDrive/Programming/Codechef/lc1mar.cpp
+bits/stdc++.h
+C:/Users/Tarun Dhiman/OneDrive/Programming/Codechef/bits/stdc++.h
+

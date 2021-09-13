@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\consecutiveAdding.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\consecutiveAdding.dir/objects.a @CMakeFiles\consecutiveAdding.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\consecutiveAdding.dir/objects.a -Wl,--no-whole-archive  -o consecutiveAdding.exe -Wl,--out-implib,libconsecutiveAdding.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\consecutiveAdding.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/Tarun Dhiman/OneDrive/Programming/Codechef/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tarun Dhiman/OneDrive/Programming/Codechef/cmake-build-debug/CMakeFiles/Codechef.dir
+C:/Users/Tarun Dhiman/OneDrive/Programming/Codechef/cmake-build-debug/CMakeFiles/rebuild_cache.dir
